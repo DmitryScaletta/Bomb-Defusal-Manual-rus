@@ -1,5 +1,8 @@
 # Руководство по обезвреживанию бомбы для игры Keep Talking and Nobody Explodes
 
+Смотреть онлайн:  
+http://dmitryscaletta.github.io/Bomb-Defusal-Manual-rus/
+
 Оригинал руководства:  
 http://www.bombmanual.com/manual/1/html/index.html
 
