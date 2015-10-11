@@ -7,7 +7,7 @@ http://www.bombmanual.com/manual/1/html/index.html
 https://docs.google.com/document/d/1WLKf6Sz13xyGS3sNu0keQUH9-kxS5LH2rCSOSA6t3Tc/edit
 
 # Скачать PDF
-https://github.com/DmitryScaletta/Bomb-Defusal-Manual-rus/raw/gh-pages/Bomb-Defusal-Manual-rus.pdf
+http://dmitryscaletta.github.io/Bomb-Defusal-Manual-rus/Bomb-Defusal-Manual-rus.pdf
 
 # Перевод
 Об ошибках перевода сообщайте [сюда](http://rutracker.org/forum/viewtopic.php?p=68951948) или [сюда](https://github.com/DmitryScaletta/Bomb-Defusal-Manual-rus/issues)
