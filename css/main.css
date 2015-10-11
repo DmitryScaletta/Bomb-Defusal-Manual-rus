@@ -476,6 +476,7 @@ td, th {
 
 .whos-on-first-step2-table {
 	width: 105%;
+    font-family: 'Special Elite', 'Courier New', monospace;
 }
 
 .whos-on-first-step2-table th {
@@ -613,7 +614,7 @@ td, th {
     margin-top: 1em;
     margin-bottom: 1em;
     width: 15.3em;
-    font-size: 0.9em;
+    font-size: 0.81em;
 }
 
 .wire-sequence td, .wire-sequence th {
