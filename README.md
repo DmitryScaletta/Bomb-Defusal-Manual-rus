@@ -8,4 +8,4 @@ http://www.bombmanual.com/manual/1/html/index.html
 https://docs.google.com/document/d/1WLKf6Sz13xyGS3sNu0keQUH9-kxS5LH2rCSOSA6t3Tc/edit
 
 
-Об ошибках перевода сообщайте в [Pull requests](https://github.com/DmitryScaletta/Bomb-Defusal-Manual-rus/pulls)
+Об ошибках перевода сообщайте [сюда](https://github.com/DmitryScaletta/Bomb-Defusal-Manual-rus/issues)
