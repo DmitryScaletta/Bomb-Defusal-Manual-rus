@@ -21,6 +21,18 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+@font-face {
+    font-family: 'special_eliteregular';
+    src: url('../fonts/specialelite-cyrillic.eot');
+    src: url('../fonts/specialelite-cyrillic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/specialelite-cyrillic.woff2') format('woff2'),
+         url('../fonts/specialelite-cyrillic.woff') format('woff'),
+         url('../fonts/specialelite-cyrillic.ttf') format('truetype'),
+         url('../fonts/specialelite-cyrillic.svg#special_eliteregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html,
 button,
 input,
@@ -41,6 +53,7 @@ textarea {
 html {
     /*font-family: 'Special Elite', 'Courier New', monospace;*/
     font-family: 'Lora', 'Courier New', monospace;
+    font-family: 'special_eliteregular', 'Courier New', monospace;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -476,7 +489,7 @@ td, th {
 
 .whos-on-first-step2-table {
 	width: 105%;
-    font-family: 'Special Elite', 'Courier New', monospace;
+    /*font-family: 'Special Elite', 'Courier New', monospace;*/
 }
 
 .whos-on-first-step2-table th {
@@ -614,7 +627,7 @@ td, th {
     margin-top: 1em;
     margin-bottom: 1em;
     width: 15.3em;
-    font-size: 0.81em;
+    font-size: 0.9em;
 }
 
 .wire-sequence td, .wire-sequence th {
