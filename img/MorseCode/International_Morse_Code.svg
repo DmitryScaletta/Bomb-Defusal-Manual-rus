@@ -48,7 +48,7 @@
    x="67.249229"
    y="10.537716"
    id="text2872"
-   style="font-size:22px;font-family:DejaVu Sans;">International Morse Code</text>
+   style="font-size:22px;font-family:DejaVu Sans;">Международная азбука Морзе</text>
 
 <text
    x="54.051781"
@@ -87,23 +87,23 @@
      sodipodi:role="line"
      id="tspan3466"
      x="50.91169"
-     y="55.326767">1. The length of a dot is one unit.</tspan><tspan
+     y="55.326767">1. Длина точки — 1 единица.</tspan><tspan
      sodipodi:role="line"
      x="50.91169"
      y="69.076767"
-     id="tspan3468">2. A dash is three units.</tspan><tspan
+     id="tspan3468">2. Длина тире — 3 единицы.</tspan><tspan
      sodipodi:role="line"
      x="50.91169"
      y="82.826767"
-     id="tspan3470">3. The space between parts of the same letter is one unit.</tspan><tspan
+     id="tspan3470">3. Пробел между частями одной буквы — 1 единица.</tspan><tspan
      sodipodi:role="line"
      x="50.91169"
      y="96.576767"
-     id="tspan3472">4. The space between letters is three units.</tspan><tspan
+     id="tspan3472">4. Пробел между буквами — 3 единицы.</tspan><tspan
      sodipodi:role="line"
      x="50.91169"
      y="110.32677"
-     id="tspan3474">5. The space between words is seven units.</tspan></text>
+     id="tspan3474">5. Пробел между словами — 7 единиц.</tspan></text>
 </g>
 <g
    transform="translate(-3.8164787,0)"
