@@ -11,6 +11,3 @@ https://docs.google.com/document/d/1WLKf6Sz13xyGS3sNu0keQUH9-kxS5LH2rCSOSA6t3Tc/
 
 # Скачать PDF
 http://dmitryscaletta.github.io/Bomb-Defusal-Manual-rus/Bomb-Defusal-Manual-rus.pdf
-
-# Перевод
-Об ошибках перевода сообщайте [сюда](http://rutracker.org/forum/viewtopic.php?p=68951948) или [сюда](https://github.com/DmitryScaletta/Bomb-Defusal-Manual-rus/issues)
