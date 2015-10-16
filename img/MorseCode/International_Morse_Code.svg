@@ -45,15 +45,15 @@
 <g
    id="g2643">
 <text
-   x="67.249229"
+   x="47.249229"
    y="10.537716"
    id="text2872"
-   style="font-size:22px;">Международная азбука Морзе</text>
+   style="font-size:22px;font-family:sans-serif;">Международная азбука Морзе</text>
 
 <text
    x="54.051781"
    y="38.502422"
-   style="font-size:10px;font-family:DejaVu Sans"
+   style="font-size:10px;font-family:sans-serif"
    id="text3411"><tspan
      x="54.051781"
      y="38.502422"
@@ -70,7 +70,7 @@
 <text
    x="54.051781"
    y="38.502422"
-   style="font-size:10px;font-family:DejaVu Sans"
+   style="font-size:10px;font-family:sans-serif"
    id="text3401"><tspan
      x="54.051781"
      y="38.502422"
@@ -251,42 +251,42 @@
    y="130.67398"
    id="text3604"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">U</text>
+   style="font-size:18px;font-family:sans-serif">U</text>
 
 <text
    x="231.74756"
    y="149.10829"
    id="text3608"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">V</text>
+   style="font-size:18px;font-family:sans-serif">V</text>
 
 <text
    x="229.15523"
    y="167.31757"
    id="text3612"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">W</text>
+   style="font-size:18px;font-family:sans-serif">W</text>
 
 <text
    x="231.73405"
    y="185.97691"
    id="text3616"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">X</text>
+   style="font-size:18px;font-family:sans-serif">X</text>
 
 <text
    x="231.76105"
    y="204.41122"
    id="text3620"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">Y</text>
+   style="font-size:18px;font-family:sans-serif">Y</text>
 
 <text
    x="232.27863"
    y="222.84554"
    id="text3624"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">Z</text>
+   style="font-size:18px;font-family:sans-serif">Z</text>
 
 </g>
 </g>
@@ -653,140 +653,140 @@
    y="130.67398"
    id="text3309"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">A</text>
+   style="font-size:18px;font-family:sans-serif">A</text>
 
 <text
    x="16.953625"
    y="149.10829"
    id="text3344"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">B</text>
+   style="font-size:18px;font-family:sans-serif">B</text>
 
 <text
    x="16.535072"
    y="167.31757"
    id="text3350"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">C</text>
+   style="font-size:18px;font-family:sans-serif">C</text>
 
 <text
    x="16.409058"
    y="185.97691"
    id="text3356"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">D</text>
+   style="font-size:18px;font-family:sans-serif">D</text>
 
 <text
    x="16.904119"
    y="204.41122"
    id="text3360"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">E</text>
+   style="font-size:18px;font-family:sans-serif">E</text>
 
 <text
    x="17.322672"
    y="222.84554"
    id="text3364"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">F</text>
+   style="font-size:18px;font-family:sans-serif">F</text>
 
 <text
    x="16.202032"
    y="241.05481"
    id="text3368"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">G</text>
+   style="font-size:18px;font-family:sans-serif">G</text>
 
 <text
    x="16.634085"
    y="259.71414"
    id="text3372"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">H</text>
+   style="font-size:18px;font-family:sans-serif">H</text>
 
 <text
    x="20.693594"
    y="278.14847"
    id="text3376"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">I</text>
+   style="font-size:18px;font-family:sans-serif">I</text>
 
 <text
    x="19.145401"
    y="296.58276"
    id="text3380"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">J</text>
+   style="font-size:18px;font-family:sans-serif">J</text>
 
 <text
    x="16.481066"
    y="315.01709"
    id="text3384"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">K</text>
+   style="font-size:18px;font-family:sans-serif">K</text>
 
 <text
    x="17.813232"
    y="333.45139"
    id="text3388"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">L</text>
+   style="font-size:18px;font-family:sans-serif">L</text>
 
 <text
    x="15.621459"
    y="351.88571"
    id="text3392"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">M</text>
+   style="font-size:18px;font-family:sans-serif">M</text>
 
 <text
    x="16.683592"
    y="370.32001"
    id="text3396"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">N</text>
+   style="font-size:18px;font-family:sans-serif">N</text>
 
 <text
    x="16.085016"
    y="388.75433"
    id="text3400"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">O</text>
+   style="font-size:18px;font-family:sans-serif">O</text>
 
 <text
    x="16.058014"
    y="425.62296"
    id="text3404"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">Q</text>
+   style="font-size:18px;font-family:sans-serif">Q</text>
 
 <text
    x="16.82761"
    y="407.18866"
    id="text3408"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">P</text>
+   style="font-size:18px;font-family:sans-serif">P</text>
 
 <text
    x="16.022009"
    y="444.05728"
    id="text3536"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">R</text>
+   style="font-size:18px;font-family:sans-serif">R</text>
 
 <text
    x="17.205658"
    y="462.49158"
    id="text3540"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">S</text>
+   style="font-size:18px;font-family:sans-serif">S</text>
 
 <text
    x="17.62421"
    y="480.9259"
    id="text3544"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">T</text>
+   style="font-size:18px;font-family:sans-serif">T</text>
 
 </g>
 <use
@@ -1266,70 +1266,70 @@
    y="250.49699"
    id="text2889"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">1</text>
+   style="font-size:18px;font-family:sans-serif">1</text>
 
 <text
    x="231.284"
    y="268.9313"
    id="text2893"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">2</text>
+   style="font-size:18px;font-family:sans-serif">2</text>
 
 <text
    x="231.09947"
    y="287.14056"
    id="text2897"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">3</text>
+   style="font-size:18px;font-family:sans-serif">3</text>
 
 <text
    x="231.39651"
    y="305.79993"
    id="text2901"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">4</text>
+   style="font-size:18px;font-family:sans-serif">4</text>
 
 <text
    x="231.05447"
    y="324.23422"
    id="text2905"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">5</text>
+   style="font-size:18px;font-family:sans-serif">5</text>
 
 <text
    x="231.14449"
    y="342.66855"
    id="text2909"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">6</text>
+   style="font-size:18px;font-family:sans-serif">6</text>
 
 <text
    x="231.04997"
    y="360.87781"
    id="text2913"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">7</text>
+   style="font-size:18px;font-family:sans-serif">7</text>
 
 <text
    x="231.09947"
    y="379.53714"
    id="text2917"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">8</text>
+   style="font-size:18px;font-family:sans-serif">8</text>
 
 <text
    x="231.09048"
    y="397.97147"
    id="text2921"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">9</text>
+   style="font-size:18px;font-family:sans-serif">9</text>
 
 <text
    x="231.12648"
    y="416.40576"
    id="text2925"
    xml:space="preserve"
-   style="font-size:18px;font-family:DejaVu Sans">0</text>
+   style="font-size:18px;font-family:sans-serif">0</text>
 
 </g>
 </g>
