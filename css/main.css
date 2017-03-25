@@ -293,7 +293,8 @@ td, th {
 }
 
 .page-content {
-    margin: 4.5em 8.82% 0; /* = 0.75in ~0.75in 0 at 12pt (1em) */
+    margin: 0 8.82% 0; /* = 0.75in ~0.75in 0 at 12pt (1em) */
+    padding-top: 4.5em;
     min-height: 57em; /* Leaving 3em at the bottom for footer (0.75in) */
 }
 
